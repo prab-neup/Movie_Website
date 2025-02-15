@@ -1,5 +1,5 @@
 import React from "react";
-import "./css/Moviecard.css";
+import "./css/MovieCard.css";
 import { useMovieContext } from "../Context/MovieContext";
 
 const MovieCard = ({ movie }) => {
